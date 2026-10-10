@@ -1,5 +1,3 @@
-[BeepBeep.png.zip](https://github.com/user-attachments/files/32209670/BeepBeep.png.zip)
-
 
 
 # BeepBeep
@@ -7,4 +5,10 @@
 BeepBeep is an IoT device that utilizes four different sensors to
 turn a white cane smart.
 
-![BeepBeep](/Users/mxsjwq/Documents/GitHub/BeepBeep/beepbeep.jpeg)
+Features:
+    - Obstacle Detection
+    - Glow in the Dark
+    - GPS Tracking w/ Adafruit IO
+    - Fall Detection
+
+![BeepBeep](beepbeep.jpeg)
