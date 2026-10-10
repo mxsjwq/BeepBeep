@@ -6,3 +6,5 @@
 
 BeepBeep is an IoT device that utilizes four different sensors to
 turn a white cane smart.
+
+![BeepBeep](/Users/mxsjwq/Documents/GitHub/BeepBeep/beepbeep.jpeg)
